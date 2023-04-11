@@ -1,8 +1,8 @@
 from create_pack import *
 from toplivo import *
 
-bot = telebot.TeleBot('6058119719:AAF_GK3rEl2TF8aNZMxOl7bEdPdaAhmQv3s')
-channel_id = "-1001925057183"
+bot = telebot.TeleBot('')
+channel_id = ""
 one_buffer = 6
 one_pack = 1
 path = f'ph/'
